@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Afnanmk/ecommerce-product-page.git)
-- Live Site URL: [Add live site URL here](https://verdant-crostata-936305.netlify.app/)
+- Solution URL: [https://github.com/Afnanmk/ecommerce-product-page.git]
+- Live Site URL: [https://verdant-crostata-936305.netlify.app/]
 
 
 ## My process
