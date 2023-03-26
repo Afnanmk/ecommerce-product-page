@@ -238,8 +238,9 @@ media700.addEventListener('change', () => {
 })
 
 
-showSlides(lightboxSlideIndex)
 
+// **** Lightbox carousel
+showSlides(lightboxSlideIndex)
 
 // next controls
 lightbox_nextBtn.addEventListener('click', () => {

@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Afnanmk/ecommerce-product-page.git]
-- Live Site URL: [https://verdant-crostata-936305.netlify.app/]
+- Live Site URL: [https://verdant-crostata-936305.netlify.app/]gi
 
 
 ## My process
