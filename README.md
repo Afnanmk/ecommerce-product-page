@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./e-commerce-product-page.jpg)
+![](./e-commerce-product-page.jpeg)
 
 
 ### Links
