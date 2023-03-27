@@ -324,6 +324,9 @@ header {
    .nav__link {
       color: #000000;
    }
+   .nav__item:hover:after {
+      display: none;
+   }
    .logo {
       display: flex;
       align-items: center;
@@ -473,7 +476,10 @@ header {
 .product-quantity-btns {
    display: flex;
    align-items: center;
+   justify-content: space-between;
    gap: 20px;
+   width: 130px;
+   min-width: 120px;
    background-color: var(--light-grayish-blue);
    padding: .7rem .8rem;
    border-radius: var(--border-radius);
